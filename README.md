@@ -2,7 +2,8 @@
 # TASK-3
 ## 3) Iris Flowers Classification : Predict the different species of flowers on the length of there petals and sepals
 
-![Iris Flowers Classification (ML)- Jupyter Notebook](https://github.com/pavankalyanchittala/Iris-Flowers-Classification/assets/117903644/15e6042d-6d2b-4427-8701-7c99d9cb17d7)
+![Iris Flowers Classification (ML)- Jupyter Notebook](https://github.com/pavankalyanchittala/Iris-Flowers-Classification/assets/117903644/6c9e17e9-565b-48ce-a6ea-64a5ee25a198)
+
 
 The dataset, I taken from Kaggle contains the Iris flower dataset that use for this  project. This dataset likely includes measurements of the length and width of the sepals and petals of different species of Iris flowers, including Setosa, Versicolor, and Virginica. By utilizing a classification algorithm, you can train a machine learning model on this dataset to predict the species of Iris flower based on these measurements.
 
